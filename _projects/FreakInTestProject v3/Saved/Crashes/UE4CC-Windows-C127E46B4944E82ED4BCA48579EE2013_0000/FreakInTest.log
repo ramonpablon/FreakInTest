@@ -1,0 +1,994 @@
+﻿Log file open, 11/15/19 04:10:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/FreakInTest.uproject
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.034002
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin UINavigation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-07.10.22:996][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-07.10.23:012][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-07.10.23:012][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.15-07.10.23:044][  0]LogHAL: Display: Platform has ~ 8 GB [8538775552 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.15-07.10.23:044][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.15-07.10.23:044][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Config/Windows/Engine.ini]
+[2019.11.15-07.10.23:055][  0]LogInit: Computer: PCDORAMÃO
+[2019.11.15-07.10.23:055][  0]LogInit: User: ramoo
+[2019.11.15-07.10.23:055][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.15-07.10.23:055][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.15-07.10.23:055][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.11.15-07.10.23:055][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.15-07.10.23:055][  0]LogMemory: Process Physical Memory: 99.17 MB used, 99.17 MB peak
+[2019.11.15-07.10.23:055][  0]LogMemory: Process Virtual Memory: 96.77 MB used, 96.77 MB peak
+[2019.11.15-07.10.23:055][  0]LogMemory: Physical Memory: 2661.34 MB used,  5481.87 MB free, 8143.21 MB total
+[2019.11.15-07.10.23:055][  0]LogMemory: Virtual Memory: 4667.52 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.15-07.10.23:269][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.15-07.10.23:269][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.11.15-07.10.23:549][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.15-07.10.23:627][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.15-07.10.23:627][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.15-07.10.25:031][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-07.10.25:031][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.15-07.10.25:086][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.11.15-07.10.25:086][  0]LogD3D11RHI:       6052/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.15-07.10.25:088][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.15-07.10.25:088][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.15-07.10.25:088][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.15-07.10.25:093][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.15-07.10.25:093][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.15-07.10.25:093][  0]LogWindows: EnumDisplayDevices:
+[2019.11.15-07.10.25:093][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.11.15-07.10.25:094][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.15-07.10.25:094][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.15-07.10.25:094][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.15-07.10.25:094][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.15-07.10.25:094][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.11.15-07.10.25:094][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.11.15-07.10.25:094][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.11.15-07.10.25:094][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.15-07.10.25:129][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.15-07.10.25:140][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.15-07.10.25:140][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.15-07.10.25:140][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.15-07.10.25:150][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.15-07.10.25:588][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.15-07.10.25:600][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.15-07.10.25:613][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.15-07.10.25:626][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.15-07.10.25:644][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.15-07.10.25:660][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.15-07.10.25:674][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.15-07.10.25:690][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.15-07.10.25:697][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.15-07.10.25:781][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.15-07.10.25:787][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.15-07.10.25:857][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.15-07.10.25:857][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.15-07.10.25:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.15-07.10.25:879][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.15-07.10.25:891][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.15-07.10.25:902][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.15-07.10.25:914][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.15-07.10.25:933][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.15-07.10.25:978][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.15-07.10.25:978][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.15-07.10.25:978][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.15-07.10.26:023][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.15-07.10.26:217][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Intermediate/Shaders/WorkingDirectory/11128/).
+[2019.11.15-07.10.26:217][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramoo/AppData/Local/Temp/UnrealShaderWorkingDir/99DFF8C24201267C749E78AD2ADFF2B6/'.
+[2019.11.15-07.10.26:220][  0]LogXGEController: Cleaning working directory: C:/Users/ramoo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.15-07.10.26:220][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.15-07.10.26:220][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.15-07.10.26:220][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.15-07.10.27:818][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: Loaded boot cache 0.23s 71MB C:/Users/ramoo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramoo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-07.10.28:048][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.15-07.10.28:082][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.15-07.10.28:082][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-07.10.28:082][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.15-07.10.28:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramoo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.15-07.10.28:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.15-07.10.28:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.15-07.10.28:115][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.15-07.10.28:133][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.15-07.10.28:142][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.15-07.10.28:389][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2019.11.15-07.10.28:765][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-07.10.29:126][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.15-07.10.29:126][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.15-07.10.29:126][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.15-07.10.29:126][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.15-07.10.29:126][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.15-07.10.29:165][  0]LogNetVersion: FreakInTest 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1002249453)
+[2019.11.15-07.10.30:087][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.041171 seconds
+[2019.11.15-07.10.30:093][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.15-07.10.30:093][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.15-07.10.30:093][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.15-07.10.32:608][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.15-07.10.32:625][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.15-07.10.32:812][  0]SourceControl: Source control is disabled
+[2019.11.15-07.10.32:812][  0]SourceControl: Source control is disabled
+[2019.11.15-07.10.32:827][  0]SourceControl: Source control is disabled
+[2019.11.15-07.10.32:832][  0]SourceControl: Source control is disabled
+[2019.11.15-07.10.33:100][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.15-07.10.33:297][  0]LogOcInput: OculusInput pre-init called
+[2019.11.15-07.10.33:946][  0]LogEngine: Initializing Engine...
+[2019.11.15-07.10.33:948][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-07.10.33:949][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.11.15-07.10.34:232][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.15-07.10.34:280][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.15-07.10.34:323][  0]LogInit: XAudio2 using 'VX248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.15-07.10.34:333][  0]LogInit: FAudioDevice initialized.
+[2019.11.15-07.10.34:334][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.15-07.10.34:403][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/ramoo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.15-07.10.34:407][  0]LogInit: Texture streaming: Enabled
+[2019.11.15-07.10.34:429][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.15-07.10.34:429][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={6C5DBAEF-425A-CE22-6114-5F88A4502B14}
+[2019.11.15-07.10.34:565][  0]LogInit: Transaction tracking system initialized
+[2019.11.15-07.10.34:654][  0]BlueprintLog: New page: Editor Load
+[2019.11.15-07.10.34:927][  0]LocalizationService: Localization service is disabled
+[2019.11.15-07.10.35:106][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.11.15-07.10.35:106][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.11.15-07.10.35:106][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.11.15-07.10.35:515][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/' took 0.02s
+[2019.11.15-07.10.35:515][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.15-07.10.35:515][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.15-07.10.36:002][  0]SourceControl: Source control is disabled
+[2019.11.15-07.10.36:004][  0]Cmd: MAP LOAD FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.15-07.10.36:005][  0]LogEditorServer: Warning: Can't find file 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.15-07.10.36:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.15-07.10.36:005][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.368ms to complete.
+[2019.11.15-07.10.36:005][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2019.11.15-07.10.36:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-07.10.36:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-07.10.36:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-07.10.36:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-07.10.36:216][  0]LogCollectionManager: Loaded 0 collections in 0.001059 seconds
+[2019.11.15-07.10.36:275][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Collections/' took 0.01s
+[2019.11.15-07.10.36:275][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/Developers/ramoo/Collections/' took 0.01s
+[2019.11.15-07.10.36:275][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/Collections/' took 0.01s
+[2019.11.15-07.10.36:275][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.15-07.10.36:286][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2749 classes and 662 folders.
+[2019.11.15-07.10.36:297][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.15-07.10.36:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.15-07.10.36:553][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.15-07.10.36:585][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.15-07.10.36:794][  0]LogSlate: Took 0.018692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.15-07.10.36:802][  0]LogSlate: Took 0.003211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.15-07.10.36:809][  0]LogSlate: Took 0.005523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.15-07.10.36:880][  0]LogRenderer: Reallocating scene render targets to support 1164x568 Format 10 NumSamples 1 (Frame:1).
+[2019.11.15-07.10.37:048][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.15-07.10.37:048][  0]LogLoad: (Engine Initialization) Total time: 24.40 seconds
+[2019.11.15-07.10.37:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.15-07.10.37:090][  0]LogAssetRegistry: Asset discovery search completed in 8.7240 seconds
+[2019.11.15-07.10.37:093][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.15-07.10.37:093][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2019.11.15-07.10.37:096][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.15-07.10.37:138][  0]LogSlate: Took 0.010340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.15-07.10.38:410][  4]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.15-07.14.43:225][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-07.14.44:832][879]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Blueprints/Freak.Freak
+[2019.11.15-07.14.45:174][879]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.11.15-07.14.46:033][879]LogSlate: Took 0.004879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.15-07.14.46:182][880]LogSlate: Took 0.004532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.15-07.14.49:889][170]LogAIModule: Creating AISystem for world Arena
+[2019.11.15-07.14.49:911][170]LogAssetEditorManager: Opening Asset editor for World /Game/Arena/Arena.Arena
+[2019.11.15-07.14.49:980][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.15-07.14.49:984][170]Cmd: MAP LOAD FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/Arena/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.15-07.14.49:984][170]LightingResults: New page: Lighting Build
+[2019.11.15-07.14.49:998][170]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2019.11.15-07.14.49:999][170]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.11.15-07.14.50:000][170]LoadErrors: New page: Loading map: Arena.umap
+[2019.11.15-07.14.50:007][170]MapCheck: New page: Map Check
+[2019.11.15-07.14.50:007][170]LightingResults: New page: Lighting Build
+[2019.11.15-07.14.50:052][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.15-07.14.50:179][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.15-07.14.50:216][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.11.15-07.14.50:246][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.15-07.14.50:247][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.486ms to complete.
+[2019.11.15-07.14.50:247][170]LogFileHelpers: Loading map 'Arena' took 0.266
+[2019.11.15-07.14.58:516][  4]LogRenderer: Reallocating scene render targets to support 1164x712 Format 10 NumSamples 1 (Frame:1).
+[2019.11.15-07.15.25:624][198]LogEditorTransaction: Undo Delete current selection
+[2019.11.15-07.15.26:563][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.15.26:961][289]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakA72B2BE6480926897CB5C29078652F69.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.15.27:444][335]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.15.27:762][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.11.15-07.17.09:383][473]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.17.09:627][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.15-07.17.09:666][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.17.09:772][473]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakABFBDA1942569FED4305E6AA48C4AFB5.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.24.49:152][920]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(287)].
+[2019.11.15-07.24.49:202][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.11.15-07.24.53:767][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-07.24.54:033][920]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto13B6294E7412C79ABAC08DF95F14246B1.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto1.umap'
+[2019.11.15-07.24.54:035][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 4.873
+[2019.11.15-07.24.54:035][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.873
+[2019.11.15-07.24.54:049][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-07.24.54:065][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Freak.Freak]
+[2019.11.15-07.24.54:065][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-07.24.54:065][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-07.24.54:180][920]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto19430CAEE4EDC952EFEC9559729C65CCB.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto1.uasset'
+[2019.11.15-07.24.54:233][920]LogFileHelpers: Auto-saving content packages took 0.197
+[2019.11.15-07.29.10:645][592]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.29.10:900][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.15-07.29.10:940][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.29.11:042][592]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakCFAB940545A8CB5F0A6CC9ABA01F2E6D.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.35.27:651][132]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.35.27:911][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.11.15-07.35.27:953][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.35.32:210][132]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakAA37CBED4D14A23816EC8EA66A0ED91E.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.35.46:148][425]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.35.46:404][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.15-07.35.46:441][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.35.46:544][425]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak218CF1DA4362E80A7032E39EFAD9BEF8.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.35.50:314][859]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.35.50:560][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.15-07.35.50:598][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.35.50:701][859]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak5399797B472159F7900263BCB90B940F.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.36.19:481][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.11.15-07.36.19:481][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-07.36.19:694][420]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto2CD17565B4C40367372AF28A645A8D24A.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto2.umap'
+[2019.11.15-07.36.20:217][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.774
+[2019.11.15-07.36.20:217][420]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.774
+[2019.11.15-07.37.46:755][963]BlueprintLog: New page: Collapse to Macro
+[2019.11.15-07.40.24:011][450]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-07.40.37:058][ 15]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (13.036 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.15-07.41.19:078][ 44]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.41.19:335][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.15-07.41.19:375][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.41.19:483][ 44]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak2654A9404EB78A3976830F89A8E1EE69.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.42.58:521][905]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.42.58:778][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.11.15-07.42.58:817][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.42.58:922][905]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakB915B3F843385F2779D45FB2CDFE4CBD.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.43.17:277][ 67]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.43.17:534][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.11.15-07.43.17:573][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.43.17:677][ 67]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak5000841146CC17060E79EB8BAF47C9FA.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.43.57:746][993]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-07.44.17:750][664]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-07.44.28:972][337]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-07.45.21:626][635]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.45.21:899][635]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.11.15-07.45.21:940][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.45.22:046][635]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakBAD92D1E493BE6D837AA2CA3C6556014.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.45.30:067][572]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.45.30:318][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.11.15-07.45.30:356][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.45.30:462][572]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak6030AA004395DF005F040FA87B6A270A.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.45.35:114][111]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.45.35:377][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.11.15-07.45.35:414][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.45.35:519][111]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak1C958A134ED8EE9B45BD0CA9772DD939.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.46.09:213][129]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.46.09:476][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.11.15-07.46.09:516][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.46.09:621][129]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak52FB720F44C19797DC187D8A2C803EBC.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.48.00:614][273]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.48.00:886][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.15-07.48.00:924][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.48.01:037][273]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakC280246D413879B3B7611C8721CB024D.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.48.30:696][683]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.48.30:962][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.15-07.48.30:996][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.48.31:102][683]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak1F877C41460FE1A3C9167B9B2ED90073.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.49.38:812][425]LogEditorTransaction: Undo Delete current selection
+[2019.11.15-07.50.42:989][ 64]LogSlate: Took 0.005373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.15-07.50.45:243][330]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.50.45:506][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.15-07.50.45:546][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.50.45:652][330]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak78EEA807412C4FC392064AA501B02C9F.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.51.52:086][201]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2019.11.15-07.52.06:019][806]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.52.06:284][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.15-07.52.06:327][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.52.06:434][806]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakEB4A59DB462AEA8146F13E9B80F81D99.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.53.16:038][ 63]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.53.16:300][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.11.15-07.53.16:341][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.53.16:748][ 63]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak9C87085840AB8920B578F78C508E4DF4.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.53.21:992][667]BlueprintLog: New page: Compile Freak
+[2019.11.15-07.53.22:259][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.15-07.53.22:300][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-07.53.22:408][667]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakC963B19E48F1DB84518E9E9710A49DB0.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-07.55.42:479][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.11.15-07.55.42:480][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-07.55.42:702][510]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto34CE11A284FDAA989885F51A463AA11CE.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto3.umap'
+[2019.11.15-07.55.42:704][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.264
+[2019.11.15-07.55.42:704][510]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2019.11.15-07.55.42:705][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-07.55.42:715][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Freak.Freak]
+[2019.11.15-07.55.42:715][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-07.55.42:715][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-07.55.42:824][510]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto3DEF2DF9C4C7F2070DE86F88FB2997BFD.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto3.uasset'
+[2019.11.15-07.55.42:824][510]LogFileHelpers: Auto-saving content packages took 0.120
+[2019.11.15-08.00.39:886][816]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.00.40:156][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.11.15-08.00.40:196][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.00.40:313][816]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak41BF7D16420B906B8331ACB5F28E4845.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.00.54:212][456]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.00.54:477][456]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.11.15-08.00.54:515][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.00.54:626][456]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak1F257DBA47B416871A0EC5850B920638.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.01.21:596][666]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.01.21:862][666]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.11.15-08.01.21:898][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.01.22:010][666]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak0E97A5D441EA496D3BC75189CA727FA8.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.01.43:609][ 12]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.01.43:873][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.11.15-08.01.43:913][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.01.44:025][ 12]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak0DED9D464C5688B564A1D58473263533.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.02.36:909][163]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  PhysicsBeginPlay  and was replaced as a Custom Event!
+[2019.11.15-08.03.04:667][477]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.03.04:947][477]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.11.15-08.03.04:984][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.03.05:100][477]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak5672425C4D9EB2C8CF6DDE9FF26F22A1.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.03.19:546][185]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.03.19:812][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.11.15-08.03.19:850][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.03.19:963][185]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak92747B2B40ED97070AE1FBB98ABBBF0A.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.03.51:051][881]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.03.51:313][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.15-08.03.51:355][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.03.51:470][881]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakDD2E2E4F46576D2F226C5F80EA1AF433.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.05.51:757][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.11.15-08.05.51:758][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-08.05.52:352][235]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto45BC88FC94B764C7D6FFC1183481F768B.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto4.umap'
+[2019.11.15-08.05.52:365][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.646
+[2019.11.15-08.05.52:365][235]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.646
+[2019.11.15-08.05.52:367][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-08.05.52:367][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-08.05.52:367][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-08.05.52:481][235]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto45EF1FE1A4EF4B90E2ADA8CA7B2CA5DED.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto4.uasset'
+[2019.11.15-08.05.52:482][235]LogFileHelpers: Auto-saving content packages took 0.115
+[2019.11.15-08.07.42:517][ 91]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.07.42:789][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.11.15-08.07.42:833][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.07.42:945][ 91]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak7495AE84406D38AAFEC47A97822DD274.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.08.23:254][508]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.08.55:435][333]LogEditorTransaction: Undo Create Pin Link
+[2019.11.15-08.08.58:671][709]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.08.58:939][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.15-08.08.58:976][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.08.59:090][709]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak049CDA454B5C0B0CE6B67DAE8CC1CDFD.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.09.03:535][158]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.15-08.09.03:558][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Arena/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena/Arena.Arena:PersistentLevel.Arena'
+[2019.11.15-08.09.03:559][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.15-08.09.03:561][158]PIE: New page: PIE session: Arena (Nov 15, 2019, 3:09:03 AM)
+[2019.11.15-08.09.03:607][158]LogPlayLevel: Creating play world package: /Game/Arena/UEDPIE_0_Arena
+[2019.11.15-08.09.03:620][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012191s)
+[2019.11.15-08.09.03:621][158]LogAIModule: Creating AISystem for world Arena
+[2019.11.15-08.09.03:622][158]LogPlayLevel: PIE: World Init took: (0.002854s)
+[2019.11.15-08.09.03:623][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena/Arena.Arena to /Game/Arena/UEDPIE_0_Arena.Arena (0.015666s)
+[2019.11.15-08.09.03:664][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.15-08.09.03:680][158]LogInit: XAudio2 using 'VX248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.15-08.09.03:690][158]LogInit: FAudioDevice initialized.
+[2019.11.15-08.09.03:741][158]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.15-08.09.03:753][158]LogWorld: Bringing World /Game/Arena/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2019.11.15-05.09.03
+[2019.11.15-08.09.03:756][158]LogWorld: Bringing up level for play took: 0.004387
+[2019.11.15-08.09.03:793][158]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.15-08.09.03:808][158]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.15-08.09.03:809][158]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2019.11.15-08.09.03:813][158]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.11.15-08.09.03:813][158]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.11.15-08.09.03:816][158]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.11.15-08.09.03:816][158]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.11.15-08.09.03:817][158]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.11.15-08.09.03:817][158]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.11.15-08.09.03:817][158]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.11.15-08.09.03:820][158]LogBlueprintUserMessages: [BP_GameMode_C_0] Add PlayerStart3 In Use
+[2019.11.15-08.09.03:820][158]LogBlueprintUserMessages: [BP_GameMode_C_0] Add PlayerStart5 In Use
+[2019.11.15-08.09.03:821][158]LogBlueprintUserMessages: [BP_GameMode_C_0] Add PlayerStart In Use
+[2019.11.15-08.09.03:821][158]LogBlueprintUserMessages: [BP_GameMode_C_0] Add PlayerStart6 In Use
+[2019.11.15-08.09.03:822][158]PIE: Play in editor start time for /Game/Arena/UEDPIE_0_Arena 0.601
+[2019.11.15-08.09.03:822][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Arena/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena/Arena.Arena:PersistentLevel.Arena'
+[2019.11.15-08.09.06:323][411]LogBlueprintUserMessages: [Freak_C_0] enable
+[2019.11.15-08.09.07:727][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Arena/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena/Arena.Arena:PersistentLevel.Arena'
+[2019.11.15-08.09.07:728][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-08.09.07:763][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.15-08.09.07:763][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Arena/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena/Arena.Arena:PersistentLevel.Arena'
+[2019.11.15-08.09.07:810][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-08.09.07:879][578]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2019.11.15-08.09.07:931][579]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.15-08.09.10:309][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.10.16:394][331]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.11.21:281][228]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.11.25:780][754]LogEditorTransaction: Undo Edit Comment Color
+[2019.11.15-08.11.36:658][930]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.11.47:240][179]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.11.52:460][795]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.12.00:485][756]LogEditorTransaction: Undo Edit Comment Color
+[2019.11.15-08.12.00:705][776]LogEditorTransaction: Undo Rename Node
+[2019.11.15-08.12.01:195][824]LogEditorTransaction: Undo Edit Comment Color
+[2019.11.15-08.12.02:192][939]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.12.02:533][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.11.15-08.12.02:581][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.12.02:701][939]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak635509C247085AAE7EB42FB9D57E4B0A.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.12.04:235][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.12.12:188][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.12.20:134][977]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.13.02:079][946]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.13.05:825][381]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.13.08:055][648]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.13.08:315][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.15-08.13.08:353][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.13.08:476][648]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakE8261BA3446D5C3BB540969225402902.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.13.10:272][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.16.12:622][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.15-08.16.13:139][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-08.16.13:385][551]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto5ACD2ECDD4A709937935134B4D5D59175.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto5.umap'
+[2019.11.15-08.16.13:388][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.805
+[2019.11.15-08.16.13:388][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.805
+[2019.11.15-08.16.13:390][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-08.16.13:406][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Freak.Freak]
+[2019.11.15-08.16.13:406][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-08.16.13:406][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-08.16.13:520][551]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto595BE7DB8435894AFEDE4A68F786F6C85.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto5.uasset'
+[2019.11.15-08.16.13:521][551]LogFileHelpers: Auto-saving content packages took 0.132
+[2019.11.15-08.16.27:018][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.20.26:506][577]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.20.26:765][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.15-08.20.26:809][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.20.27:168][577]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak2121D88B4B2E77D2548156A4BE766900.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.20.29:737][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.20.56:185][ 34]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.20.56:447][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.11.15-08.20.56:485][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.20.56:602][ 34]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak4CE847DE43C0F2DBDFEAE0ABB1B0EBDC.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.21.22:989][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.22.58:046][502]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.22.58:309][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.15-08.22.58:348][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.22.58:466][502]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak6AA2A0A94BE6B4D21BEE34B585143CB7.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.22.59:921][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.23.44:626][842]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.23.44:891][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.11.15-08.23.44:930][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.23.45:052][842]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakE92CF16D439E23E7EA5289B1599D74F9.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.23.50:062][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.15-08.26.13:991][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.15-08.26.13:991][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-08.26.14:213][938]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto6F3B7185945C94D66E4D7BFA5091FF38F.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto6.umap'
+[2019.11.15-08.26.14:215][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.264
+[2019.11.15-08.26.14:215][938]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2019.11.15-08.26.14:217][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-08.26.14:233][938]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Freak.Freak]
+[2019.11.15-08.26.14:233][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-08.26.14:233][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-08.26.14:623][938]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto67EE1DCF24D7769547B14DDA0DCBC2713.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto6.uasset'
+[2019.11.15-08.26.14:623][938]LogFileHelpers: Auto-saving content packages took 0.407
+[2019.11.15-08.27.15:661][589]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::GetSocketLocation' [Elemento não encontrado.]
+[2019.11.15-08.27.41:761][688]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.27.42:029][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.11.15-08.27.42:068][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.27.42:186][688]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak611CCA54485C294D892011A4B2DB671C.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.27.43:092][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.32.49:989][390]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.32.50:268][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.15-08.32.50:307][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.32.50:799][390]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak1A55FE8244328C2233693EAEB506D725.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.33.45:489][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.36.23:423][553]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.36.23:690][553]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.15-08.36.23:732][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.36.23:857][553]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakEB8E97BC46AEAF5BE61E1D993F1398DF.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.36.27:933][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.36.46:651][231]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.38.30:685][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.15-08.38.30:686][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena/Arena" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.15-08.38.31:435][801]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Arena_Auto76192ACE249549E753E6189A7709A642D.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/Arena/Arena_Auto7.umap'
+[2019.11.15-08.38.31:437][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena/Arena' took 0.792
+[2019.11.15-08.38.31:438][801]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.792
+[2019.11.15-08.38.31:439][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Freak] ([1] browsable assets)...
+[2019.11.15-08.38.31:439][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Freak]
+[2019.11.15-08.38.31:439][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2019.11.15-08.38.31:561][801]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Freak_Auto7A9FBC5B440431DCD68DA9CA95EA45497.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/Autosaves/Game/_Blueprints/Freak_Auto7.uasset'
+[2019.11.15-08.38.31:562][801]LogFileHelpers: Auto-saving content packages took 0.124
+[2019.11.15-08.40.25:791][466]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  AnimationEventTick  and was replaced as a Custom Event!
+[2019.11.15-08.40.46:112][893]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.40.46:382][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.11.15-08.40.46:424][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.40.46:546][893]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakDB7961E54A69160BAD5D4E9693D6C291.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.40.46:909][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.40.57:063][128]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.15-08.41.09:789][651]BlueprintLog: New page: Compile Freak
+[2019.11.15-08.41.10:071][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.15-08.41.10:109][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Freak" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset" SILENT=true
+[2019.11.15-08.41.10:233][651]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/FreakC03E0F1A48273212E6B8D481D22B8D41.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Blueprints/Freak.uasset'
+[2019.11.15-08.41.10:585][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-08.41.29:750][626]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.11.15-08.41.34:877][230]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/getup_back.getup_back
+[2019.11.15-08.41.34:879][230]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.getup_back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.15-08.41.34:885][230]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/getup_back.getup_back
+[2019.11.15-08.41.34:886][230]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.getup_back) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.15-08.41.34:892][230]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/getup_back.getup_back
+[2019.11.15-08.41.34:892][230]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.getup_back) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.15-08.41.34:894][230]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/getup_back.getup_back
+[2019.11.15-08.41.34:895][230]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.getup_back) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.15-08.41.34:909][230]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.11.15-08.41.40:910][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Freaks/getup_back" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/getup_back.uasset" SILENT=true
+[2019.11.15-08.41.40:923][919]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/getup_back760B2DE142DD51210EE561993A1C1625.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/getup_back.uasset'
+[2019.11.15-08.41.41:095][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.11.15-08.41.41:133][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.15-08.41.41:167][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.11.15-08.41.44:302][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Freaks/Animations/getup_back" FILE="D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/Animations/getup_back.uasset" SILENT=true
+[2019.11.15-08.41.44:315][286]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/getup_backB6385D6D4E7E28E4247D419A9E0DA187.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/Animations/getup_back.uasset'
+[2019.11.15-08.41.44:472][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.15-08.41.44:509][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.15-08.41.44:541][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.15-08.42.32:483][938]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/ThirdPerson_IdleRun_2D21C1E993459DA0450BB397BB9F7F8B3E.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.11.15-08.42.32:758][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.15-08.42.32:826][938]LogSavePackage: Moving 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Saved/ThirdPerson_AnimBPD5AF99924A66DB93EFF4F5A42651863D.tmp' to 'D:/Documentos/Unreal Projects/FreakInTest/FreakInTestProject/Content/_Freaks/Animations/ThirdPerson_AnimBP.uasset'
+[2019.11.15-08.42.38:663][608]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.15-08.42.38:696][608]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.032 s
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: 
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: Found circular redirect from /Game/_Freaks/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP to /Game/_Freaks/Animations/thirdPerson_AnimBP.thirdPerson_AnimBP! Returning None instead
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: Stack: 
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc036c2690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc03394d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc0361c2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc036274c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc033c9017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc033606c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc03627113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc034d533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035e7d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035e80a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc034d736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc034d5412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035e7d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc0358dced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035e80a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc034d736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc0358e3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc0358c9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc0358c6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf3880125 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf387fc5c UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf37ca009 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035cc315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035eb619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffc035d3f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf2129ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf212a757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf215fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf215c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf28ef0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf249da24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf249c599 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbf24b00b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe195b1b3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe191ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe196a9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe0772fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe07d6f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe081dda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe0750e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbe0733d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfe07b61a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfe04ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfe0ac69d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:696][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfe0ad93d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfdfe00bd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfde31e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfde98dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffbfde8f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc27b0b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc27afef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc27b0d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc27afc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc34fb63ed USER32.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc34fb5de2 USER32.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc27b0e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ff77bc05d3e UE4Editor.exe!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ff77bc1554c UE4Editor.exe!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ff77bc155ca UE4Editor.exe!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ff77bc2316c UE4Editor.exe!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ff77bc25b8e UE4Editor.exe!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc351b7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: [Callstack] 0x00007ffc36a8ced1 ntdll.dll!UnknownFunction []
+[2019.11.15-08.42.38:697][608]LogOutputDevice: Error: 
+[2019.11.15-08.42.38:704][608]LogStats:                SubmitErrorReport -  0.000 s
